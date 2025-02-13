@@ -2,6 +2,8 @@
 # Countdown Application
 ##### Ashvini Hunagund
 
+(for reference, some sample files to upload are stored under the folders bg_uploads)
+
 ## Approach
 ### Tier 1
 **Selecting the Date**  I implemented the countdown timer by utilizing the Date object in JavaScript. Users can set a custom target date using an <input> field with type datetime-local. The timer updates every second using setInterval, calculating the difference between the target and current date. When the countdown reaches zero, the timer stops. The state timeLeft holds the number of days, hours, minutes, and seconds left. This state is updated every second inside a useEffect hook. This took me around 30 minutes.
