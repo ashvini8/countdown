@@ -1,6 +1,6 @@
 
 # Countdown Application
-#### Ashvini Hunagund
+### Ashvini Hunagund
 
 (for reference, some sample files to upload are stored under the folders bg_uploads)
 
